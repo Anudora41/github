@@ -24,6 +24,7 @@
  ![alt text](https://github.com/Anudora41/github/blob/main/skrini/55.png)
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
+https://github.com/Anudora41/github/commit/e5b0609ec0223b1d5e244ca7ae5deed4cc43512b
 https://github.com/Anudora41/github/blob/main/README.md
 https://github.com/Anudora41/github/commit/88e0717f343c36ff61bd2e6623ab79cf22538866
 ---
@@ -38,7 +39,6 @@ https://github.com/Anudora41/github/commit/88e0717f343c36ff61bd2e6623ab79cf22538
 1. Сделайте коммит и пуш.
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
-https://github.com/Anudora41/github/commit/e5b0609ec0223b1d5e244ca7ae5deed4cc43512b
 https://github.com/Anudora41/github/blob/main/.gitignore
 https://github.com/Anudora41/github/commit/89705f9dedaa5b591422bb7d673394d35d598ea2
 ---
