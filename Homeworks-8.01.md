@@ -17,13 +17,15 @@
    ![alt text](https://github.com/Anudora41/github/blob/main/skrini/24.png)
 1. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой `git add README.md`.
 1. Ещё раз выполните команды `git diff` и `git diff --staged`.
-2. ![alt text](https://github.com/Anudora41/github/blob/main/skrini/25.png)
+ ![alt text](https://github.com/Anudora41/github/blob/main/skrini/25.png)
 1. Теперь можно сделать коммит `git commit -m 'First commit'`.
-2. ![alt text](https://github.com/Anudora41/github/blob/main/skrini/28.png)
+ ![alt text](https://github.com/Anudora41/github/blob/main/skrini/28.png)
 1. Сделайте `git push origin master`.
-![alt text](https://github.com/Anudora41/github/blob/main/skrini/55.png)
+ ![alt text](https://github.com/Anudora41/github/blob/main/skrini/55.png)
+
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 https://github.com/Anudora41/github/blob/main/README.md
+https://github.com/Anudora41/github/commit/88e0717f343c36ff61bd2e6623ab79cf22538866
 ---
 
 ### Задание 2
@@ -37,6 +39,7 @@ https://github.com/Anudora41/github/blob/main/README.md
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 https://github.com/Anudora41/github/blob/main/.gitignore
+https://github.com/Anudora41/github/commit/89705f9dedaa5b591422bb7d673394d35d598ea2
 ---
 
 ### Задание 3
