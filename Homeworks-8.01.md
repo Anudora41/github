@@ -48,7 +48,7 @@ https://github.com/Anudora41/github/blob/main/.gitignore
 7. Сделайте пуш в основной ветке.
 8. Не удаляйте ветку dev.
 
-В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
+В качестве ответа прикрепите ссылку на граф коммитов  в ваш md-файл с решением.
 
 https://github.com/Anudora41/github/blob/dev/test.sh
 
