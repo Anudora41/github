@@ -1,0 +1,4 @@
+#ignor file .рус 
+*.рус 
+#ignor directory /cache
+/cache
