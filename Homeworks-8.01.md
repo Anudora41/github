@@ -12,12 +12,16 @@
 1. Выполните команду `git status` и запомните результат.
 1. Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
 1. Ещё раз выполните `git status` и продолжайте проверять вывод этой команды после каждого следующего шага.
+   ![alt text](https://github.com/Anudora41/github/blob/main/skrini/22.png)
 1. Посмотрите изменения в файле README.md, выполнив команды `git diff` и `git diff --staged`.
+   ![alt text](https://github.com/Anudora41/github/blob/main/skrini/24.png)
 1. Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой `git add README.md`.
 1. Ещё раз выполните команды `git diff` и `git diff --staged`.
+2. ![alt text](https://github.com/Anudora41/github/blob/main/skrini/25.png)
 1. Теперь можно сделать коммит `git commit -m 'First commit'`.
+2. ![alt text](https://github.com/Anudora41/github/blob/main/skrini/28.png)
 1. Сделайте `git push origin master`.
-
+![alt text](https://github.com/Anudora41/github/blob/main/skrini/55.png)
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 https://github.com/Anudora41/github/blob/main/README.md
 ---
@@ -52,5 +56,5 @@ https://github.com/Anudora41/github/blob/main/.gitignore
 
 https://github.com/Anudora41/github/blob/dev/test.sh
 
-https://github.com/Anudora41/github
+https://github.com/Anudora41/github/commits/main
 ---
